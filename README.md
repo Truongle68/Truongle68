@@ -1,6 +1,9 @@
 👋 Hey there! I'm Truong Le
+
 🔹 Frontend Developer | MERN Stack Enthusiast
+
 🔹 Passionate about building scalable & efficient web applications
+
 🔹 Exploring new libraries & frameworks like TailwindCSS
 
 💻 Tech Stack:

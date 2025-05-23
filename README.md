@@ -1,21 +1,62 @@
-👋 Hey there! I'm Truong Le
+<p align="center">
+  <img src="https://github.com/Truongle68.png" width="120" style="border-radius: 50%;" alt="Truong Le Avatar"/>
+</p>
 
-🔹 Frontend Developer | MERN Stack Enthusiast
+# 👋 Hi, I'm Truong Le
 
-🔹 Passionate about building scalable & efficient web applications
+🎓 A passionate **Backend Developer** in the making | 💻 Currently studying at **FPT University**
 
-🔹 Exploring new libraries & frameworks like TailwindCSS
+---
 
-💻 Tech Stack:
+## 🚀 About Me
 
-✔ JavaScript | Node.js | Express.js | MongoDB
+I’m a dedicated and enthusiastic student striving to become a skilled **backend developer**. My journey is fueled by curiosity and a love for building impactful applications using modern technologies.
 
-✔ React.js | TailwindCSS (and more soon!)
+🔧 **Tech Stack Highlights**  
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** ReactJS, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, _Spring Boot (basic experience)_  
+- **Database:** **MongoDB** (strong understanding), MySQL (some experience)  
+- **Real-time Communication:** Socket.io  
+- **Mobile Development:** React Native  
+- **System Design:** Redis, RabbitMQ (Microservices exploration)
 
-🚀 Currently Learning: Next.js, Advanced MERN techniques, Optimized Frontend
+---
 
-📫 Let's Connect: 
+## 🌟 Core Strengths
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phúc-trường-lê-726338356)
+- 🔁 Real-time applications using **Socket.io**
+- 🔍 Full-stack development with the **MERN** stack
+- 📱 Cross-platform mobile apps with **React Native**
+- 🏗️ Microservice architectures and message brokers like **Redis** and **RabbitMQ**
+- 🔄 Backend versatility with **Node.js**  
+- 🗄️ Strong understanding of **MongoDB** for flexible data management
 
+---
 
+## 🧠 Learning & Growth
+
+- Currently deepening my skills in **mobile development** and **distributed systems**
+- Focused on building robust, scalable backend systems
+- Constantly improving **soft skills**: communication, leadership, and public speaking
+- Gained basic experience in **Spring Boot** and **MySQL** through projects, and looking to expand further
+
+---
+
+## 🤝 Collaboration & Personality
+
+Beyond code, I’m a strong believer in the power of **teamwork**. I enjoy:
+- 👨‍💻 Participating in team-building activities
+- ⚽ Playing football & exploring new music
+- 🗣️ Enhancing interpersonal and presentation skills
+
+---
+
+## 📫 Connect With Me
+
+Let’s grow together and build something amazing!  
+🔗 [LinkedIn - Truong Le](https://www.linkedin.com/in/truong-le-48164b257/)
+
+---
+
+> *“Strive not to be a success, but rather to be of value.” – Albert Einstein*

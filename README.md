@@ -13,30 +13,27 @@
 I’m a dedicated and enthusiastic student striving to become a skilled **backend developer**. My journey is fueled by curiosity and a love for building impactful applications using modern technologies.
 
 🔧 **Tech Stack Highlights**  
-- **Languages:** JavaScript, TypeScript  
-- **Frontend:** ReactJS, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, _Spring Boot (basic experience)_  
-- **Database:** **MongoDB** (strong understanding), MySQL (some experience)  
-- **Real-time Communication:** Socket.io  
-- **Mobile Development:** React Native  
-- **System Design:** Redis, RabbitMQ (Microservices exploration)
+- **Frontend:** ReactJS, NextJs, Tailwind CSS  
+- **Backend:** NodeJs, Express, NestJs
+- **Database:** **MongoDB** (strong understanding), MySQL, PostgreSQL (some experience)
+- **Real-time Communication:** Websocket  
+- **Mobile Development:** React Native
 
 ---
 
 ## 🌟 Core Strengths
 
-- 🔁 Real-time applications using **Socket.io**
+- 🔁 Real-time applications using **Websocket**
 - 🔍 Full-stack development with the **MERN** stack
 - 📱 Cross-platform mobile apps with **React Native**
-- 🏗️ Microservice architectures and message brokers like **Redis** and **RabbitMQ**
-- 🔄 Backend versatility with **Node.js**  
+- 🔄 Backend versatility with **NodeJs** & **NestJs**
 - 🗄️ Strong understanding of **MongoDB** for flexible data management
 
 ---
 
 ## 🧠 Learning & Growth
 
-- Currently deepening my skills in **mobile development** and **distributed systems**
+- Currently exploring microservice with some technologies like gRPC, GraphQl, Kafka, Redis, and relational database PostgreSQL
 - Focused on building robust, scalable backend systems
 - Constantly improving **soft skills**: communication, leadership, and public speaking
 - Gained basic experience in **Spring Boot** and **MySQL** through projects, and looking to expand further

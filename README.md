@@ -33,7 +33,7 @@ I’m a dedicated and enthusiastic student striving to become a skilled **backen
 
 ## 🧠 Learning & Growth
 
-- Currently exploring microservice with some technologies like gRPC, GraphQl, Kafka, Redis, and relational database PostgreSQL
+- Currently exploring microservice with some technologies like gRPC, GraphQL, Kafka, Redis, and relational database PostgreSQL
 - Focused on building robust, scalable backend systems
 - Constantly improving **soft skills**: communication, leadership, and public speaking
 - Gained basic experience in **Spring Boot** and **MySQL** through projects, and looking to expand further

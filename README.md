@@ -4,18 +4,19 @@
 
 # 👋 Hi, I'm Truong Le
 
-🎓 A passionate **Backend Developer** in the making | 💻 Currently studying at **FPT University**
+🎓 A passionate **Backend Developer** in the making | 💻 Graduated from **FPT University**
 
 ---
 
 ## 🚀 About Me
 
-I’m a dedicated and enthusiastic student striving to become a skilled **backend developer**. My journey is fueled by curiosity and a love for building impactful applications using modern technologies.
+I’m a dedicated and enthusiastic person striving to become a skilled **backend developer**. My journey is fueled by curiosity and a love for building impactful applications using modern technologies.
 
 🔧 **Tech Stack Highlights**  
-- **Frontend:** ReactJS, NextJs, Tailwind CSS  
-- **Backend:** NodeJs, Express, NestJs
-- **Database:** **MongoDB** (strong understanding), MySQL, PostgreSQL (some experience)
+- **Frontend:** ReactJS, Tailwind CSS  
+- **Backend:** Node.js, Express.js NestJs
+- **Database:** MongoDB, PostgreSQL
+- **Cache:** Redis
 - **Real-time Communication:** Websocket  
 - **Mobile Development:** React Native
 
@@ -27,7 +28,7 @@ I’m a dedicated and enthusiastic student striving to become a skilled **backen
 - 🔍 Full-stack development with the **MERN** stack
 - 📱 Cross-platform mobile apps with **React Native**
 - 🔄 Backend versatility with **NodeJs** & **NestJs**
-- 🗄️ Strong understanding of **MongoDB** for flexible data management
+- 🗄️ Strong understanding of **MongoDB** for flexible data management, and **Postgres** for relational one
 
 ---
 
@@ -36,7 +37,7 @@ I’m a dedicated and enthusiastic student striving to become a skilled **backen
 - Currently exploring microservice with some technologies like gRPC, GraphQL, Kafka, Redis, and relational database PostgreSQL
 - Focused on building robust, scalable backend systems
 - Constantly improving **soft skills**: communication, leadership, and public speaking
-- Gained basic experience in **Spring Boot** and **MySQL** through projects, and looking to expand further
+- Gained basic experience in **Go** through projects, and looking to expand further
 
 ---
 
